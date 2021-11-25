@@ -1,6 +1,6 @@
-### Tatiana Albarracin - @tatianaserrano 👋
+### Tatiana Albarracin - @tatianaserrano
+-------------------------------------------
 
-___________________________________________
 
 <!--
 **tatianaserrano/tatianaserrano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
